@@ -1,1 +1,0 @@
-url = 'test_pat.project.byted.co'
