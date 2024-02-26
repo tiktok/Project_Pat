@@ -1,1 +1,1 @@
-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
+key = "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"
