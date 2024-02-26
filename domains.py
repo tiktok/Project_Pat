@@ -1,1 +1,1 @@
-key = "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"
+token = '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'
