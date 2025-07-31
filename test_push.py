@@ -1,1 +1,1 @@
-token = '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'
+token = 'cli_j23EWEYjlF8TwPRtEC1xVg494tr8bm18JxyE'
